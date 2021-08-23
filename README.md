@@ -6,8 +6,8 @@ Accept-Language: de-DE, de, en;q=0.9, de-CH;q=0.75, de-AT;q=0.7, bar;q=0.7, nl;q
 
 I like programming in Rust, but documentation is important too. It is nice if you use Free (Libre) Software, although I also do not exclusively use Free Software.
 
-I'm currently working on the simple Gemini protocol server [agate](https://github.com/mbrubeck/agate).
-I'm also developing my own programming language called [ypss](https://github.com/Johann150/ypss).
+I'm currently working on the fediverse server [Misskey](https://github.com/misskey-dev/misskey) and associated projects. The software is already awesome and I recommend everyone to give it a go, either as user or instance administrator.
+The main developer is not very well funded at the moment, so it would be appreciated if you could help them out on [Patreon](https://patreon.com/syuilo).
 
 Some of my projects are also available outside of GitHub at <https://git.qwertqwefsday.eu>.
 
